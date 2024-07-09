@@ -14,17 +14,17 @@ I am thrilled to share my experience of developing an E-Commerce full stack app 
 
 ## Network Architecture
 
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0020.jpg" alt="Network Image 1" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0018.jpg" alt="Network Image 2" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0017.jpg" alt="Network Image 3" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0016.jpg" alt="Network Image 4" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0015.jpg" alt="Network Image 5" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0014.jpg" alt="Network Image 6" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0013.jpg" alt="Network Image 7" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0012.jpg" alt="Network Image 8" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0011.jpg" alt="Network Image 9" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0010.jpg" alt="Network Image 10" style="width: 30%; margin-right: 10px;">
+<div style="overflow-x: auto; white-space: nowrap; display: flex; justify-content: flex-start;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0020.jpg" alt="Network Image 1" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0018.jpg" alt="Network Image 2" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0017.jpg" alt="Network Image 3" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0016.jpg" alt="Network Image 4" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0015.jpg" alt="Network Image 5" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0014.jpg" alt="Network Image 6" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0013.jpg" alt="Network Image 7" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0012.jpg" alt="Network Image 8" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0011.jpg" alt="Network Image 9" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0010.jpg" alt="Network Image 10" style="width: auto; height: 200px; margin-right: 10px;">
 </div>
 
 ## About Me
@@ -65,4 +65,4 @@ We welcome contributions from the community. If you are interested in contributi
 
 ## License
 
-This project is licensed under the MIT License - see
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
