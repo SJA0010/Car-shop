@@ -16,19 +16,59 @@ I am thrilled to share my experience of developing an E-Commerce full stack app 
 
 Below is the network architecture of Paytin:
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0020.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0018.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0017.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0016.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0015.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0014.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0013.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0012.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0011.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-  <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0010.jpg" alt="Network Image" style="width: 30%; margin-right: 5px;"/>
-</div>
+To display all images in a single row with horizontal scrolling in HTML, you can use a combination of CSS flexbox for the layout and overflow properties to enable the scrolling. Here’s how you can do it:
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .image-container {
+            display: flex;
+            overflow-x: auto;
+            white-space: nowrap;
+            max-width: 100%; /* Adjust as needed */
+        }
+
+        .image-container img {
+            margin-right: 5px;
+            width: 300px; /* Adjust the width as needed */
+        }
+    </style>
+    <title>Car Shop Network Architecture</title>
+</head>
+<body>
+    <h1>Network Architecture</h1>
+    <div class="image-container">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0020.jpg" alt="Network Image 1">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0018.jpg" alt="Network Image 2">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0017.jpg" alt="Network Image 3">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0016.jpg" alt="Network Image 4">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0015.jpg" alt="Network Image 5">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0014.jpg" alt="Network Image 6">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0013.jpg" alt="Network Image 7">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0012.jpg" alt="Network Image 8">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0011.jpg" alt="Network Image 9">
+        <img src="https://github.com/SJA0010/Car-shop/blob/main/IMG-20240707-WA0010.jpg" alt="Network Image 10">
+    </div>
+</body>
+</html>
+```
+
+### Explanation:
+
+- **HTML Structure**: A container (`div.image-container`) wraps all the images.
+- **CSS**:
+  - `display: flex;`: Makes the container a flex container.
+  - `overflow-x: auto;`: Enables horizontal scrolling if the content exceeds the container's width.
+  - `white-space: nowrap;`: Prevents the images from wrapping to the next line.
+  - `max-width: 100%;`: Ensures the container doesn't exceed the width of its parent element.
+  - `margin-right: 5px;`: Adds some spacing between the images.
+  - `width: 300px;`: Sets a fixed width for the images (adjust as needed).
+
+This setup will create a horizontally scrollable row of images that you can scroll through if they exceed the container's width.
 ## About Me
 
 Hey, My name is Subhan Abbasi. I'm a professional Flutter full stack developer, expert in Front end (web and apps). I have done 15+ Flutter projects. I have mastered the skills of hybrid application (iOS and Android) with an experience of 2 years as an intern at 7-Skies Solution. During my Journey of Software Engineering, I achieved a lot of experiences including leadership skills and learned to differentiate code standards. Having 2 years of experience enables me to read your ideas and create a masterpiece out of them. My first priority is your satisfaction. 
