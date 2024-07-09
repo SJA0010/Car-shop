@@ -41,12 +41,12 @@ Hey, My name is Subhan Abbasi. I'm a professional Flutter full stack developer, 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-github-username/paytin.git
+    git clone https://github.com/your-github-username/Car-Shop.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd paytin
+    cd Car-Shop
     ```
 
 3. **Install Dependencies**:
