@@ -18,7 +18,7 @@ Below is the network architecture of Paytin:
 
 To display all images in a single row with horizontal scrolling in HTML, you can use a combination of CSS flexbox for the layout and overflow properties to enable the scrolling. Here’s how you can do it:
 
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +55,6 @@ To display all images in a single row with horizontal scrolling in HTML, you can
     </div>
 </body>
 </html>
-```
 
 ### Explanation:
 
